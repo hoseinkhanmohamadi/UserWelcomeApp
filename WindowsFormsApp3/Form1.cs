@@ -70,7 +70,7 @@ namespace WindowsFormsApp3
 
         private void btnexit_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("خدافظ");
+            MessageBox.Show("bye");
           
                 Application.Exit();
 
