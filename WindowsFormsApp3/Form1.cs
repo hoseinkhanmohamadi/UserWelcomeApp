@@ -34,13 +34,6 @@ namespace WindowsFormsApp3
             
         }
 
-        private void lblenteryourname_MouseMove(object sender, MouseEventArgs e)
-        {
-            lblenteryourname.Text = "esteghlal";
-            
-            lblenteryourname.ForeColor = Color.Blue;
-        }
-
         private void lblenteryourname_MouseLeave(object sender, EventArgs e)
         {
             lblenteryourname.Text = "enter your name:";
